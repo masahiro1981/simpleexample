@@ -1,0 +1,4 @@
+#! /bin/bash
+
+touch $SNAP_DATA/sampletext.txt
+
